@@ -1,2 +1,0 @@
-C:/Users/PC/StudioProjects/Online_banking_System/build/.cxx/debug/4z2o1ma4/x86_64/CMakeFiles/edit_cache.dir
-C:/Users/PC/StudioProjects/Online_banking_System/build/.cxx/debug/4z2o1ma4/x86_64/CMakeFiles/rebuild_cache.dir
